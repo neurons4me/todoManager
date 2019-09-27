@@ -1,0 +1,11 @@
+C:\Users\adammcdaniel\source\repos\todoManager\todoManager\bin\Debug\netcoreapp2.2\todoManager.deps.json
+C:\Users\adammcdaniel\source\repos\todoManager\todoManager\bin\Debug\netcoreapp2.2\todoManager.runtimeconfig.json
+C:\Users\adammcdaniel\source\repos\todoManager\todoManager\bin\Debug\netcoreapp2.2\todoManager.runtimeconfig.dev.json
+C:\Users\adammcdaniel\source\repos\todoManager\todoManager\bin\Debug\netcoreapp2.2\todoManager.dll
+C:\Users\adammcdaniel\source\repos\todoManager\todoManager\bin\Debug\netcoreapp2.2\todoManager.pdb
+C:\Users\adammcdaniel\source\repos\todoManager\todoManager\obj\Debug\netcoreapp2.2\todoManager.csprojAssemblyReference.cache
+C:\Users\adammcdaniel\source\repos\todoManager\todoManager\obj\Debug\netcoreapp2.2\todoManager.csproj.CoreCompileInputs.cache
+C:\Users\adammcdaniel\source\repos\todoManager\todoManager\obj\Debug\netcoreapp2.2\todoManager.AssemblyInfoInputs.cache
+C:\Users\adammcdaniel\source\repos\todoManager\todoManager\obj\Debug\netcoreapp2.2\todoManager.AssemblyInfo.cs
+C:\Users\adammcdaniel\source\repos\todoManager\todoManager\obj\Debug\netcoreapp2.2\todoManager.dll
+C:\Users\adammcdaniel\source\repos\todoManager\todoManager\obj\Debug\netcoreapp2.2\todoManager.pdb
