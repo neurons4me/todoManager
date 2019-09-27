@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adammcdaniel\\source\\repos\\todoManager\\todoManager\\todoManager.csproj",
+      "projectUniqueName": "C:\\Users\\adammcdaniel\\Source\\Repos\\gh\\todoManager\\todoManager\\todoManager.csproj",
       "projectName": "todoManager",
-      "projectPath": "C:\\Users\\adammcdaniel\\source\\repos\\todoManager\\todoManager\\todoManager.csproj",
+      "projectPath": "C:\\Users\\adammcdaniel\\Source\\Repos\\gh\\todoManager\\todoManager\\todoManager.csproj",
       "packagesPath": "C:\\Users\\adammcdaniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adammcdaniel\\source\\repos\\todoManager\\todoManager\\obj\\",
+      "outputPath": "C:\\Users\\adammcdaniel\\Source\\Repos\\gh\\todoManager\\todoManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
